@@ -15,7 +15,7 @@ Currently building [Compile](https://github.com/theronvspr) — My capstone rese
 ### My Projects!
 
 | project | type | stack |
-|---------|------|-------|------|
+|---------|------|-------|
 | Compile | Full-Stack | React, Vite, Node.js/Express |
 
 ---
