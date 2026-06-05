@@ -4,12 +4,13 @@
 
 Currently building [Compile](https://github.com/theronvspr) — My capstone research for DLSU-D, An undergraduate research management system for DLSU-D.
 
+
 ---
 
 ### Currently working on:
 
-- **Compile** — Web-based research management system for DLSU-D. Stack: React + Vite, Node.js/Express 
-
+- **[Compile](https://github.com/theronvspr)** — Web-based research management system for DLSU-D. Stack: React + Vite, Node.js/Express
+- **[Keystract](https://theronvspr.github.io/Keystract/)** — Web-based keyword extraction and concept canonicalization tool from abstracts. Stack: React + Vite
 ---
 
 ### My Projects!
@@ -17,6 +18,8 @@ Currently building [Compile](https://github.com/theronvspr) — My capstone rese
 | Project Name | Type | Stack |
 |---------|------|-------|
 | Compile | Full-Stack | React, Vite, Node.js/Express |
+| Keystract | Front-Stack | React, Vite |
+
 
 ---
 
