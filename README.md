@@ -1,28 +1,29 @@
 # Alen Umandal (@theronvspr)
-
 **4th Year IT Student · Web Developer · DLSU-D**
 
-Currently building [Compile](https://github.com/theronvspr) — My capstone research for DLSU-D, An undergraduate research management system for DLSU-D.
-
-
----
-
-### Currently working on:
-
-- **[Compile](https://github.com/theronvspr)** — Web-based research management system for DLSU-D. Stack: React + Vite, Node.js/Express
+Currently finishing [Compile](https://github.com/theronvspr) — a research management system for DLSU-D built as my capstone.
 
 ---
 
-### My Projects!
+### Currently working on
 
-| Project Name | Type | Stack |
+- **[Compile](https://github.com/theronvspr)** — Web-based research management system for DLSU-D. Stack: React + Vite, Node.js/Express, MySQL
+- **[rec.relay](https://github.com/theronvspr/rec.relay)** — Record on mobile, land on PC over local Wi-Fi via WebRTC. No app install needed.
+- **Flash Booth** — Browser-based photobooth app with multiple shooting modes.
+
+---
+
+### Projects
+
+| Project | Type | Stack |
 |---------|------|-------|
-| Compile | Full-Stack | React, Vite, Node.js/Express |
-
+| Compile | Full-Stack | React, Vite, Node.js/Express, MySQL |
+| rec.relay | Full-Stack | Node.js/Express, WebRTC, Electron |
+| Flash Booth | Frontend | HTML, CSS, JavaScript |
 
 ---
 
-### Tech stacks
+### Tech Stack
 
 **Primary**
 
