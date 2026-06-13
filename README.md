@@ -8,7 +8,7 @@ Currently finishing [Compile](https://github.com/theronvspr) — a research mana
 ### Currently working on
 
 - **[Compile](https://github.com/theronvspr)** — Web-based research management system for DLSU-D. Stack: React + Vite, Node.js/Express, MySQL
-- **[rec.relay](https://github.com/theronvspr/rec.relay)** — Record on mobile, land on PC over local Wi-Fi via WebRTC. No app install needed.
+- **[rec.relay](https://github.com/theronvspr/rec.relay)** — Record on mobile, land on PC over local Wi-Fi via WebRTC.
 - **Flash Booth** — Browser-based photobooth app with multiple shooting modes.
 
 ---
@@ -18,7 +18,7 @@ Currently finishing [Compile](https://github.com/theronvspr) — a research mana
 | Project | Type | Stack |
 |---------|------|-------|
 | Compile | Full-Stack | React, Vite, Node.js/Express, MySQL |
-| rec.relay | Full-Stack | Node.js/Express, WebRTC, Electron |
+| rec.relay | Full-Stack | Node.js/Express, WebRTC |
 | Flash Booth | Frontend | HTML, CSS, JavaScript |
 
 ---
