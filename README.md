@@ -7,10 +7,9 @@ Currently finishing [Compile](https://github.com/theronvspr) — a research mana
 
 ### Currently working on
 
-- **[clipit](https://github.com/theronvspr/clipit)** — Fast web-based video trimmer and compressor running 100% locally in-browser
+- **[clipit](https://github.com/theronvspr/clipit)** — Fast web-based video trimmer and compressor running 100% locally in-browser **[[Link]](https://theronvspr.github.io/clipit/)**
 - **[Compile](https://github.com/theronvspr)** — Web-based research management system for DLSU-D.
 - **[rec.relay](https://github.com/theronvspr/rec.relay)** — Record on mobile, land on PC over local Wi-Fi via WebRTC.
-- **Flash Booth** — Browser-based photobooth app with multiple shooting modes.
 
 ---
 
@@ -21,7 +20,6 @@ Currently finishing [Compile](https://github.com/theronvspr) — a research mana
 | clipit | Frontend | React, TypeScript, Vite, WebCodecs, ffmpeg.wasm |
 | Compile | Full-Stack | React, Vite, Node.js/Express, MySQL |
 | rec.relay | Full-Stack | Node.js/Express, WebRTC |
-| Flash Booth | Frontend | HTML, CSS, JavaScript |
 
 ---
 
