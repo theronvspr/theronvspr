@@ -1,31 +1,33 @@
 # Alen Umandal (@theronvspr)
 **4th Year IT Student · Web Developer · DLSU-D**
 
-Currently finishing [Compile](https://github.com/theronvspr) — a research management system for DLSU-D built as my capstone.
+[![Portfolio Site](https://img.shields.io/badge/Interactive_Portfolio-theronvspr.github.io-781728?style=for-the-badge&logo=github&logoColor=white)](https://theronvspr.github.io/)
+
+Currently finishing [Compile](https://github.com/theronvspr) — a web-based research management system for DLSU-D built as my capstone project.
 
 ---
 
-### Projects 
+### 🛠️ Projects
 
-- **[clipit](https://github.com/theronvspr/clipit)** — Fast web-based video trimmer and compressor running 100% locally in-browser **[[Link]](https://theronvspr.github.io/clipit/)**
-- **[Unraveled](https://github.com/theronvspr/Unraveled)** — Private, timer-driven journaling app that forces raw, unedited stream-of-consciousness writing **[[Link]](https://theronvspr.github.io/Unraveled/)**
+- **[clipit](https://github.com/theronvspr/clipit)** — Fast web-based video trimmer and compressor running 100% locally in-browser. **[[Live Demo]](https://theronvspr.github.io/clipit/)**
+- **[Unraveled](https://github.com/theronvspr/Unraveled)** — Private, timer-driven journaling app that forces raw, unedited stream-of-consciousness writing. **[[Live Demo]](https://theronvspr.github.io/Unraveled/)**
 - **[Compile](https://github.com/theronvspr)** — Web-based research management system for DLSU-D.
 - **[rec.relay](https://github.com/theronvspr/rec.relay)** — Record on mobile, land on PC over local Wi-Fi via WebRTC.
 
 ---
 
-### Projects Details
+### 📋 Project Details
 
-| Project | Type | Stack |
-|---------|------|-------|
-| clipit | Frontend | React, TypeScript, Vite, WebCodecs, ffmpeg.wasm |
-| Unraveled | Frontend | HTML, CSS, JavaScript, IndexedDB, Google Drive API |
-| Compile | Full-Stack | React, Vite, Node.js/Express, MySQL |
-| rec.relay | Full-Stack | Node.js/Express, WebRTC |
+| Project | Type | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **clipit** | Frontend | React, TypeScript, Vite, WebCodecs, ffmpeg.wasm | [Live](https://theronvspr.github.io/clipit/) · [GitHub](https://github.com/theronvspr/clipit) |
+| **Unraveled** | Frontend | HTML, CSS, JavaScript, IndexedDB, Google Drive API | [Live](https://theronvspr.github.io/Unraveled/) · [GitHub](https://github.com/theronvspr/Unraveled) |
+| **Compile** | Full-Stack | React, Vite, Node.js/Express, MySQL | [GitHub](https://github.com/theronvspr) |
+| **rec.relay** | Full-Stack | Node.js/Express, WebRTC | [GitHub](https://github.com/theronvspr/rec.relay) |
 
 ---
 
-### Tech Stack
+### ⚡ Tech Stack
 
 **Primary**
 
@@ -51,7 +53,7 @@ Currently finishing [Compile](https://github.com/theronvspr) — a research mana
 
 ---
 
-### Connect
+### 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umandalalen/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/theronvspr/)
